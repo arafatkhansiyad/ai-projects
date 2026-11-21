@@ -1,0 +1,38 @@
+{
+  "name": "Your Name",
+  "title": "Junior Automation & AI Specialist",
+  "contact": {
+    "email": "you@example.com",
+    "phone": "+880 1XXX-XXXXXX",
+    "location": "Dhaka, Bangladesh",
+    "links": ["github.com/yourname", "linkedin.com/in/yourname"]
+  },
+  "summary": "Fresher who enjoys automating repetitive work and building small AI tools. Comfortable with APIs and prompt design.",
+  "skills": ["Python", "Zapier", "API", "JSON", "Google Sheets", "Prompt Engineering", "GitHub", "Documentation"],
+  "experience": [
+    {
+      "role": "Freelance Automation Specialist",
+      "company": "Self-employed",
+      "dates": "2026 - Present",
+      "bullets": [
+        "worked on Zapier workflows that move form submissions into Google Sheets and email",
+        "helped with testing and fixing broken automations for small clients",
+        "made short documentation so clients can maintain their workflows"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "AI Interview Assistant",
+      "tools": "Python, LLM API",
+      "link": "github.com/yourname/ai-interview-assistant",
+      "bullets": [
+        "used an LLM API to generate role-based interview questions",
+        "responsible for a feedback rubric that scores answers"
+      ]
+    }
+  ],
+  "education": [
+    {"degree": "B.Sc. in Computer Science & Engineering", "school": "Your University", "dates": "2023 - 2027"}
+  ]
+}

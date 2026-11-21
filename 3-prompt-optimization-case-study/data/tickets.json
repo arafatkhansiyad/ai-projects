@@ -1,0 +1,14 @@
+[
+  {"id": 1, "text": "I was charged twice for my subscription this month. Please refund one payment ASAP.", "labels": {"category": "billing", "sentiment": "negative", "urgency": "high"}},
+  {"id": 2, "text": "The export to CSV button does nothing when I click it. Using Chrome on Windows.", "labels": {"category": "bug", "sentiment": "negative", "urgency": "medium"}},
+  {"id": 3, "text": "Can you add a dark mode? My eyes hurt at night. Love the app otherwise!", "labels": {"category": "feature_request", "sentiment": "positive", "urgency": "low"}},
+  {"id": 4, "text": "I can't log in. It says my password is wrong but I just reset it. I have a client demo in an hour!", "labels": {"category": "account", "sentiment": "negative", "urgency": "high"}},
+  {"id": 5, "text": "How do I update the credit card on file? No rush.", "labels": {"category": "billing", "sentiment": "neutral", "urgency": "low"}},
+  {"id": 6, "text": "The dashboard shows yesterday's numbers instead of today's. Is something broken?", "labels": {"category": "bug", "sentiment": "neutral", "urgency": "medium"}},
+  {"id": 7, "text": "Thanks for the quick fix last week, everything works great now.", "labels": {"category": "other", "sentiment": "positive", "urgency": "low"}},
+  {"id": 8, "text": "Please delete my account and all my data.", "labels": {"category": "account", "sentiment": "neutral", "urgency": "medium"}},
+  {"id": 9, "text": "It would be great if reports could be scheduled to send automatically every Monday.", "labels": {"category": "feature_request", "sentiment": "neutral", "urgency": "low"}},
+  {"id": 10, "text": "The app crashes every time I open the invoice page. We lose money each hour this is down!", "labels": {"category": "bug", "sentiment": "negative", "urgency": "high"}},
+  {"id": 11, "text": "My invoice shows the wrong company name. Could you correct it before our audit on Friday?", "labels": {"category": "billing", "sentiment": "neutral", "urgency": "medium"}},
+  {"id": 12, "text": "I love the new interface, but I'd like an option to export reports as PDF.", "labels": {"category": "feature_request", "sentiment": "positive", "urgency": "low"}}
+]

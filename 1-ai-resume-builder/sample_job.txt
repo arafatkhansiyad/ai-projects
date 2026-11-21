@@ -1,0 +1,15 @@
+Junior Prompt Engineer / AI Automation Associate
+
+We are looking for a detail-oriented associate to design and test prompts for LLM-powered workflows.
+
+Responsibilities
+- Write and iterate on prompts using OpenAI and Claude APIs
+- Build automation workflows with Zapier or n8n and connect them through webhooks and REST API calls
+- Evaluate model output quality with a rubric and report findings
+- Keep clear documentation of prompts, tests and results
+
+Requirements
+- Python and basic SQL
+- Experience with JSON, Git/GitHub and Google Sheets
+- Strong communication and problem solving
+- Nice to have: RAG, Streamlit, A/B testing of prompts
